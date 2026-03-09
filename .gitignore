@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+
+artifacts/
+mlruns/
+logs/
+
+*.h5
+*.keras
+*.pb
+*.ckpt
+
+.ipynb_checkpoints
+
+.env
+.DS_Store

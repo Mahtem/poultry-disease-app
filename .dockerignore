@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
+.git
+.gitignore
+artifacts/data_ingestion/Train/
+artifacts/data_ingestion/*.zip

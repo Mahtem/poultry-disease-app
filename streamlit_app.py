@@ -28,7 +28,7 @@ class_names = [
 # Streamlit Page Config
 # ------------------------
 st.set_page_config(
-    page_title="🐔 Poultry Disease Predictor",
+    page_title="🐔 Poultry Disease Predictor Using VGG16",
     page_icon="🐓",
     layout="centered"
 )
